@@ -1,9 +1,9 @@
 :root {
     --color-bg: #282828;
     --color-fg: #F8C8DC;
-    --color-link: #8F9191;
-    --color-link-visited: #668F8B;
-    --color-link-hover: #FA7921 ;
+    --color-link: #F2D2BD;
+    --color-link-visited: #967bb6;
+    --color-link-hover: #F88379 ;
 }
 
 html, body {
